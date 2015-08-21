@@ -1,5 +1,5 @@
 ---
-title: "README"
+title: "CodeBook"
 author: "Miguel Bermejo"
 date: "17 de agosto de 2015"
 output: html_document
